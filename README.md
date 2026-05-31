@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cube Site
 
 A modern web platform built with Next.js for showcasing Cube projects, opportunities, and information about the team.
@@ -32,4 +33,3 @@ page.tsx → Opportunities page
 - Dynamic project pages for each individual project
 - Opportunities page for roles, events, or involvement
 - About page for team and mission information
-
