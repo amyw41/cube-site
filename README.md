@@ -12,16 +12,18 @@ A modern web platform built with Next.js for showcasing Cube projects, opportuni
 
 ## 📁 Project Structure
 app/
-  page.tsx                  → /landing page
-  about/
-    page.tsx                → /about
-  projects/
-    page.tsx                → /projects
-  projects/
-    [id]/
-      page.tsx              → /projects/anything-here
-  opportunities/
-    page.tsx                → /opportunities
+page.tsx → Landing page
+
+about/
+page.tsx → About page
+
+projects/
+page.tsx → Projects listing page
+[id]/
+page.tsx → Individual project page (dynamic route)
+
+opportunities/
+page.tsx → Opportunities page
 
 ## 🧠 Key Features
 
