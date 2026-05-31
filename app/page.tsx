@@ -1,9 +1,13 @@
-export default function Home() {
+import Hero from "@/components/landing page/hero";
+import Mission from "@/components/landing page/mission";
+import Navbar from "@/components/navbar";
+
+export default function Page() {
   return (
-    <main className="flex items-center justify-center min-h-screen">
-      <h1 className="text-3xl font-bold">
-        Cube Site is working 🚀
-      </h1>
+    <main className="min-h-screen bg-black">
+      <Navbar />
+      <Hero />
+      <Mission />
     </main>
   );
 }
