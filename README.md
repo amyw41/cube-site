@@ -4,15 +4,15 @@ A modern web platform built with Next.js for showcasing Cube projects, opportuni
 
 ## 🚀 Tech Stack
 
-- Next.js (App Router)
+- Next.js
 - TypeScript
 - React
-- Tailwind CSS (if you're using it)
+- Tailwind CSS
 - Node.js
 
 ## 📁 Project Structure
 app/
-  page.tsx                  → /
+  page.tsx                  → /landing page
   about/
     page.tsx                → /about
   projects/
@@ -31,8 +31,3 @@ app/
 - Opportunities page for roles, events, or involvement
 - About page for team and mission information
 
-## 🛠️ Getting Started
-
-### 1. Install dependencies
-```bash
-npm install
