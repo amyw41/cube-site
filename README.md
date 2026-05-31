@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cube Site
 
 A modern web platform built with Next.js for showcasing Cube projects, opportunities, and information about the team.
