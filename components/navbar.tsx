@@ -45,7 +45,7 @@ function NavLink({
   );
 }
 
-export default function Navbar() {
+export function Navbar() {
   const pathname = usePathname();
 
   return (
